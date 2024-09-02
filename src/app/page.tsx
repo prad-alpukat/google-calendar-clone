@@ -1,9 +1,9 @@
-import Calendar from "@/components/CalendarA";
+import CalendarB from "@/components/CalendarB";
 
 export default function Home() {
   return (
     <main className="container py-10">
-      <Calendar />
+      <CalendarB />
     </main>
   );
 }
